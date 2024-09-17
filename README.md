@@ -1,3 +1,3 @@
-# git_test
-Hello Odin!
-Hi Gurls
+# Nick's Programming Career
+Sup bitches! 😎
+I'm about to end all other programmers' career. *sass*
